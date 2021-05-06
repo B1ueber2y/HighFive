@@ -18,6 +18,8 @@
 
 #include "half.hpp"
 
+using namespace half_float;
+
 namespace HighFive {
 
 namespace {  // unnamed
